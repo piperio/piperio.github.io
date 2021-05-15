@@ -1,9 +1,9 @@
 body {
 background-color: #444444;
-color: #dddddd;
+color: black;
 font-family: Arial, Helvetica, sans-serif;
 margin: 10% 20%;
-  
+  background: url(https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1142330016.jpg);
 }
 
 .exp-header{
@@ -13,4 +13,12 @@ margin: 10% 20%;
   border-bottom: 1px solid #dddddd;
   background-color: rgba (0,0,0, 0.1)
     
+}
+
+hr {
+  border: 1px solid red;
+}
+
+h1{font-family: Brush Script MT;
+text-align: center;
 }
